@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ozone_ai_" target="blank"><img src="https://img.shields.io/twitter/follow/ozone_ai_?logo=twitter&style=for-the-badge" alt="ozone_ai_" /></a> </p>
 
-- I’m currently working on [Ozone](https://ozone-ai.com)
+- I’m currently working on [Ozone](https://ozone-ai.com) and [VoidAI](https://voidai.xyz)
 
 - 🌱 I’m currently learning **Golang, Next.js**
 
