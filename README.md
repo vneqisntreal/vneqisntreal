@@ -4,18 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/ozone_ai_" target="blank"><img src="https://img.shields.io/twitter/follow/ozone_ai_?logo=twitter&style=for-the-badge" alt="ozone_ai_" /></a> </p>
 
-- I’m currently working on [Ozone](https://ozone-ai.com) and [VoidAI](https://voidai.xyz)
+- I’m currently working on **Syllara Solver and Auro**
 
-- 🌱 I’m currently learning **Golang, Next.js**
+- 🌱 I’m currently learning **Rust, javascript**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Next.js**
 
-- ⚡ Fun fact **I am acoustic**
+- ❓ I specialize in **Reverse engineering, automation, and cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ozone_ai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozone_ai_" height="30" width="40" /></a>
-<a href="https://discord.gg/4VhjWArw8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4VhjWArw8c" height="30" width="40" /></a>
+<a href="mailto:contact@syllara.com" target="blank">contact@syllara.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
